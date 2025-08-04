@@ -1,6 +1,6 @@
 <div align="center">
 
-# InstantID : Zero-shot Identity-Preserving Generation in Seconds | RunPod Serverless Worker
+# InstantID OK: Zero-shot Identity-Preserving Generation in Seconds | RunPod Serverless Worker
 
 This is the source code for a [RunPod](https://runpod.io?ref=2xxro4sy)
 Serverless worker for [InstantID](https://github.com/InstantID/InstantID):
