@@ -1,11 +1,16 @@
+# Core ML/Hugging Face Libraries
+accelerate
 diffusers==0.25.1
 transformers==4.52.1
-accelerate
+huggingface-hub==0.30.0
+peft
+
+# Utilities & Runtimes
 safetensors
 einops
 onnxruntime-gpu
 omegaconf
-peft
-huggingface-hub==0.30.0
+
+# Computer Vision
 opencv-python
 insightface==0.7.3
